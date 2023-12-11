@@ -1,0 +1,22 @@
+{
+    "wavesB": [
+        {
+            "wave": 1,
+            "speed": 60,
+            "amount": 12,
+            "rate": 30000
+        },
+        {
+            "wave": 2,
+            "speed": 80,
+            "amount": 18,
+            "rate": 28000
+        },
+        {
+            "wave": 3,
+            "speed": 105,
+            "amount": 23,
+            "rate": 26000
+        }
+    ]
+}
